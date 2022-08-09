@@ -1,0 +1,4933 @@
+brew update
+brew upgrade powershell --cask
+sudo port install oh-my-posh
+brew install jandedobbeleer/oh-my-posh/oh-my-posh
+brew update && brew upgrade oh-my-posh
+$PROFILE
+code $PROFILE
+$PROFILE
+clear
+code $PROFILE
+code
+code .
+code
+vim $PROFILE
+code
+Code
+brew
+code $PROFILE
+brew
+which pwsh
+brew
+pwsh
+brew
+code $PROFILE
+brew install posh-git
+brew install git
+brew install neovim
+nvim
+nvim $PROFILE
+Install-Module posh-git -Scope CurrentUser -Force
+Install-Module oh-my-posh -Scope CurrentUser -Force
+vim $PROFILE
+vi $PROFILE
+v $PROFILE
+nv $PROFILE
+vim $PROFILE
+code $PROFILE
+rl
+grep
+c
+rl
+c
+clear
+c
+rl
+c
+$SCRIPTS
+$scripts
+scripts
+$PROFILE.SCRIPTS
+$PROFILE
+cd $PROFILE/..
+ls
+cd ..
+code .
+ls
+Remove-Item $env:POSH_PATH -Force -Recurse
+Uninstall-Module oh-my-posh -AllVersions
+code $PROFILE
+rl
+c
+code $PROFILE
+rl
+ep
+rl
+$(brew --prefix oh-my-posh)/themes
+ep
+rl
+ls
+rl
+ls
+brew install nvm
+nvm install 14.16.0
+nvm
+rl
+nvm
+node
+npm install node
+brew install npm
+npm install 14.16.0
+node -v
+npm -v
+nvm -v
+install-module -name Terminal-Icons -Repository PSGallery -Force
+ls
+Import-Module Terminal-Icons
+ls
+rl
+ls
+brew install terminal-icons
+Get-Item
+ls
+c
+Install-Module -Name Terminal-Icons -Repository PSGallery
+ls
+rl
+Import-Module Terminal-Icons
+ls
+Get-ChildItem
+ep
+rl
+ls
+gc
+gci
+rl
+li
+l
+Install-Module -Name z -Force
+z documents
+ls
+l
+rl
+home
+z documents
+home
+z d
+z g
+z d
+z g
+z github
+home
+z g
+z d
+ls
+z code
+home
+z c
+home
+c
+clear
+home
+rl
+which pwsh
+chsh -s /bin/bash
+ep
+chsh -s /bin/zsh
+cd /usr
+ls
+cd bin
+ls
+gci
+gci *pwsh*
+gci *z*
+gci bash
+gci *bash*
+cd /etc
+ls
+cd shells
+gci
+l
+ep
+im -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
+ep
+z documents
+l
+home
+nvm
+npm -v
+brew install fzf
+im -Name PSFzf -Scope CurrentUser -Force
+home
+Get-Scripts
+ep
+cd $PROFILE/..
+ls
+mkdir scripts
+mkdir modules
+cd scripts
+code navigation.ps1
+code profile.ps1
+home
+c
+ep
+code $PROFILE
+Split-Path $script:MyInvocation.MyCommand.Path
+Get-Script
+Get-ALias
+Script
+$PROFILE
+cd $PROFILE/..
+ls
+cd ..
+ls
+cd powershell
+ls
+rename scripts Scripts
+ri scripts Scripts
+ren scripts Scripts
+si scripts Scripts
+rni scripts Scripts
+Get-Module
+$Module
+$Modules
+$Scripts
+Get-Scripts
+Get-Script
+l
+cd scripts
+ls
+./profile.ep
+./ep
+cd ../modules
+code navigation.psm1
+ls
+l
+cd ../scripts
+ls
+l
+code navigation.psm1
+code navigation.ps1
+home
+Get-Command
+Get-Script
+Get-Module
+$Script
+$Scripts
+$MOdules
+code $PROFILE
+get-Modules
+Get-Modules
+Get-Scripts
+home
+c
+ep
+z Modules
+z $Modules
+code Navigation.psm1
+home
+ep
+code $PROFILE
+home
+z modules
+dotnet new install Microsoft.PowerShell.Standard.Module.Template::0.1.3
+brew install dotnet
+home
+dotnet new install Microsoft.PowerShell.Standard.Module.Template::0.1.3
+Get-Scripts
+Get-Script
+Get-Modules
+code $PROFILE
+Get-Modules
+Get-Module
+Get-Script
+Get-Scripts
+$Scripts
+z modules
+dotnet new psmodule
+dotnet new psmodule --search
+cd ..
+code .
+home
+ep
+rl
+home
+rl
+$env::`
+exit
+$env
+$env:PSModulePath
+$env:PSScriptPath
+cd /Users/benjamin/.local/share/powershell/Modules:/usr/local/share/powershell/Modules:/usr/local/microsoft/powershell/7/Modules
+cd .local
+cd share/powershell/Modules:/usr/local/share/powershell/Modules:/usr/local/microsoft/powershell/7/Modules
+cd share/powershell/Modules:/usr/local/share/powershell/Modules:/usr/local/microsoft/powershell/7
+cd share/powershell/Modules:/usr/local/share/powershell/Modules:/usr/local/microsoft/powershell
+cd .local
+l
+cd share
+l
+cd powershell
+ls
+cd Scripts
+ls
+cd ..
+Get-Location
+code .
+home
+ep
+$env:PSScriptPath
+$scripts
+cd $scripts
+ls
+./navigation.ps1
+Split-Path $MyInvocation.ScriptName
+Get-Script
+Get-Scripts
+cd $scripts
+$scripts
+ls
+home
+cd $HOME
+ls
+cd $PROFILE/..
+ls
+l
+code . 
+home
+cd $scripts
+ls
+code .
+./profile.ps1
+home
+z documents
+ls
+l
+cd $PROFILE/..
+mkdir Modules
+mkdir Scripts
+Get-Module
+cd $env:PSModuleDirectory
+ls
+cd $env:PSModuleDirectory
+cd $env:PSModulePath
+cd .local/share/powershell
+ls
+code .
+Get-Module
+get-Module
+home
+$env:currentuser
+$env:userprofile
+$env:USERPROFILE
+cd $env:USERPROFILE
+z dpcs
+z docs
+z documents
+z docs
+z d
+cd $env:USERPROFILE
+home
+em
+cd $env:USERPROFILE
+cd $env:USERPROFILE/.local/shared
+cd $env:USERPROFILE/.local
+cd .local
+ls
+cd share
+cd powershell
+cd modules
+Get-Location
+code .
+em
+z modules
+cd .local
+cd share
+cd powershell
+cd modules
+code .
+em
+ep
+cd .local
+cd share
+cd powershell
+cd modules
+code .
+em
+rl
+em
+ref
+z d
+mkdir iterm-colors
+cd iterm-colors
+code andromeda.itermcolors
+ep
+l
+ref
+l
+z doc
+ls
+l
+ep
+ref
+ls
+l
+c
+home
+z d
+cd iterm-colors
+l
+rni andromeda.itermcolors argonaut.itermcolors
+l
+code andromeda.itermcolors
+l
+z d
+ls
+l
+home
+l
+cd .config
+l
+mkdir nvim
+cd nvim
+vim init.vim
+nvim int.vim
+l
+vim init.vim
+PlugInstall
+ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+PlugInstall
+nvim
+:nvim
+vim
+vim init.vim
+brew install python3
+vim init.vim
+npm install -g  neovim
+cd .config
+l
+cd nvim
+l
+vim init.vim
+gem
+gem install neovim
+sudo gem install neovim
+brew install python34-pip
+brew install python3-pip
+New-Item -Path 'C:\Python38\python.exe' -ItemType SymbolicLink -Value 'C:\Python38\python3.exe'
+python -v
+brew install python
+python
+py
+python3
+python3 -m pip install --user --upgrade pynvim
+vim init.vim
+cd .config
+cd nvim
+l
+vim init.vim
+home
+l
+z d
+ls
+cd code
+l
+mkdir js
+cd js
+mkdir practice
+cd practice
+vim
+vim practice.js
+cd .config
+cd nvim
+cd .config
+cd nvim
+new tab
+brew update
+brew install --HEAD tree-sitter luajit
+which nvm
+which neovim
+cd .local
+ls
+cd share
+l
+cd nvim
+l
+mkdir colors
+mkdir after
+cd colors/
+ls
+l
+cd ..
+vim init.vim
+vim plug.vim
+vim init.vim
+vim plug.vim
+vim macos.vim
+vim init.vim
+l
+rmfile macos.vim
+rm macos.vim
+vim macos.vim
+vim init.vim
+vim plug.vim
+vim init.vim
+vim
+l
+cd colors/
+vim
+vim init.vim
+cd ..
+vim init.vim
+cd colors/
+git clone https://github.com/sainnhe/everforest.git
+cd ..
+vim init.vim
+l
+vim init.vim
+cd colors
+ls
+l
+rmdir everforest
+l
+cd everforest
+l
+rmdir autoload
+cd ..
+sudo rmdir everforest
+cd ..
+vim plug.vim
+vim init.vim
+vim plug.vim
+vim init.vim
+l
+cd colors
+l
+cd everforest
+l
+cd colors
+cd l
+l
+cd ../..
+l
+cd ..
+vim init.vim
+vim plug.vim
+vim init.vim
+npm i -g typescript typescript-language-server
+cd .local
+cd share
+l
+cd nvim
+l
+l
+cd after
+l
+vim lspconfig.rc.vim
+l
+finder
+./file
+file
+open
+open .
+git clone https://github.com/craftzdog/dotfiles-public.git
+cd dotfiles-public
+open .
+cd .config
+open .
+cd ..
+vim init.vim
+em
+projects
+s
+l
+cd ..
+cd powershell
+l
+vim ben.omp.json
+ep
+rl
+ref
+cd .config
+l
+cd powershell
+ls
+ren ben.omp.json .ben.omp.json
+l
+ls
+l
+docs
+l
+docs
+PRACTICE
+practice
+mkdir go
+mkdir c#
+mkdir java
+mkdir typescript
+mkdir c++
+mkdir python
+l
+qcd doc
+ls
+..
+qcd d
+c
+new-csproj Practice
+cd ..
+l
+rmdir Practice
+sudo rmdir Practice
+rmdir Practice -Force
+del Practice
+l
+new-csproj Practice
+dnr
+dotnet run Program.cs
+cd PracticeUI
+dotnet run Program.cs
+cd ..
+dotnet run Practice
+dotnet run
+cd *UI
+dotnet run
+lsn
+em
+home
+cd .local
+cd share
+ls
+cd powershell
+l
+code
+cd $vscodeworkspace
+docs
+cd code
+cd c#
+dnr
+docs
+cd code
+cd c#
+cd practice
+dnr
+c
+which npm
+Get-PublicIP
+Get-Weather
+Get-Weather -short
+get-Weather
+get-weather
+get-weather -Long
+-29 % 26
+-20 % 26
+mod -20 26
+-20 % 26
+mod -20 26
+pow 2 26
+pows 2 20
+pow 2 20
+pows 2 20
+pow 2 20
+code
+docs
+cd code
+cd typescript
+vim foo.ts
+home
+cd .config
+cd nvim
+l
+mkdir themes
+projects
+l
+cd ../code
+cd c#
+ls
+cd practice
+l
+cd *UI
+vim Program.cs
+home
+docs
+cd code
+docs
+home
+cd .config
+cd nvim
+l
+vim plug.vim
+vim init.vim
+cd .config
+cd nvim
+vim plug.vim
+nvim -v
+cd .config/nvim
+ls
+cd after
+l
+ls
+ls -Hidden
+l -Hidden
+Get-ChildItem -Hidden
+Get-ChildItem --Hidden
+Get-ChildItem -Hidden
+l -Force
+ls -Force
+dir -Forece
+dir -Force
+file
+open .
+l
+cd ..
+vim init.vim
+vim plug.vim
+docs
+cd code
+cd typescript
+vim foo.ts
+npm run foo
+npx run foo
+tsc foo.ts
+vim foo.ts
+tsc foo.ts
+tsc foo.ts | node foo.js
+npm install -g ts-node
+ts-node foo.ts
+docs
+l
+cd code
+l
+cd ..
+practice
+home
+cd .local
+cd .share
+cd share
+l
+cd powershell
+l
+code .
+em
+home
+qcd appl
+l
+cd practice && dnr
+cd c#/practice && dnr
+cd c#
+ls
+l
+cd ..
+new-csproj CryptoFunctions
+dnr
+dotnet run
+docs
+home
+docs
+home
+cd .config/nvim
+ls
+l
+git init
+cd .config/nvim
+ls
+vim init.vim
+ls
+vim plug.vim
+vim
+vim init.vim
+home
+docs
+cd code
+ls
+cd c#
+ls
+cd CryptoFunctions
+ls
+cd *UI
+ls
+vim Program.cs
+vim .
+cd .config/nvim
+ls
+vim plug.vim
+vim init.vim
+vim plug.vim
+cd themes
+ls
+cd ../colors
+ls
+cd ..
+vim plug.vim
+vim init.vim
+home
+docs
+ls
+cd code
+ls
+cd python
+ls
+code practice.py
+practice
+home
+practice
+cd java
+new-java Practice
+em
+mk
+New-ChildItem
+New-Item
+cd java
+new-java Practice
+cd java
+new-java Test
+java Main
+java Main.java
+dotnet -v
+dotnet --version
+dotnet
+dotnet update
+cd c#
+ls
+cd CryptoFunctions
+vim .
+home
+cd .config/nvim
+ls
+cd ..
+z nvim
+vim plug.vim
+docs
+cd code
+ls
+cd c#
+cd CryptoFunctions
+ls
+vim .
+vim .
+npm install -g vim-language-server
+vim
+vim init.vim
+vim init.vim
+cd after
+ls
+l
+vim lualine.rc.lua
+cd ..
+cd ..
+ls
+cd typescript
+ls
+vim foo.ts
+cd ..
+ls
+l
+vim mappings.vim
+vim .
+vim init.vim
+home
+cd docs
+docs
+cd code
+cd ..
+z code
+home
+z c
+z home
+z come
+z code
+home
+z code
+ls
+cd c++\
+ls
+ren practoce.cpp practice.cpp
+vim practice.cpp
+home
+scoop install g++
+scoop
+brew install g++
+g++
+brew install gcc
+z code
+cd c++
+ls
+g++
+g++ practice.cpp
+./practice
+ls
+./a.out
+em
+z code
+cd c++
+l
+rmfiles a.out
+g++ *.cpp
+ls
+l
+ll
+z code
+cd c++
+ls
+rcpp
+mkdir practice
+open .
+ls
+cd practice
+rcpp
+brew install golang
+brew install go
+go
+cd ..
+..
+ls
+cd cod
+cd code
+ls
+cd go
+gows
+ll
+vim practice.go
+ls
+nvim practice.go
+ll
+em
+ep
+ll
+ls
+ll
+which pwsh
+im oh-my-posh
+ref
+im posh-git -Scope CurrentUser -Force
+im oh-my-posh -Scope CurrentUser -Force
+ref
+ep
+brew
+zsh
+brew
+ls
+cd go
+gows
+em
+gows
+pws
+docs
+pws
+docs
+jws
+cd Practice
+rj
+cd Practice
+rj
+cd Practice
+rj
+cd Practice
+rj
+cd ../Test
+rj
+cd ../python
+ls
+vim practice.py
+*.py
+practice.py
+./practice
+./practice.py
+python practice.py
+python3 *.py
+em
+pws
+py
+l
+ll
+mkdir practice
+move practice.py /practice
+mi
+move
+move practice.py
+ll
+move practice.py practice
+ll
+cd practice
+ll
+pws
+py
+cd practice
+py
+& /opt/homebrew/bin/python3 /Users/benjamin/Documents/code/python/practice/practice.py
+py
+cd practice
+py
+rp
+conda
+brew install conda
+brew install anaconda
+home
+conda create -n tensor python=3.6
+conda
+anaconda
+conda
+anacoda
+ana
+anaconda
+which conda
+cd opt
+which brew
+cd opt
+cd ..
+cd opts
+cd opt
+cd homebrew
+cd bin
+ls
+home
+conda
+conda create -n tensor python=3.6
+activate tensor
+conda activate tensor
+pip install tensorflow
+pip install keras
+pws
+c
+home
+docs
+c
+ls
+l
+ll
+topten
+c
+vim test.txt
+View-Content test.txt
+Get-Content test.txt
+view test.txt
+gc test.txt
+c
+docs
+ls
+ll
+docs
+cd code
+ls
+cd ..
+ls
+cd code
+cd c#
+ls
+cd CryptoFunctions
+code .
+dnr
+dotnet run
+code .
+cd learning
+docs
+cd learning
+ls
+open Skiena*
+ep
+docs
+l
+ll
+cd learning
+ll
+mkdir practice
+code .
+cd practice
+cd sortin
+qcd sor
+ls
+ll
+new-csproj InsertionSort
+open Skiena*
+open
+open .
+dotnet run
+cd *UI
+dotnet run
+cd ../ SelectionSort
+cd ..
+qcd sele
+ls
+cd ..
+new-csproj SelectionSort --here
+new-csproj SelectionSort -here
+dotnet run
+cd *ui
+dotnet run
+cd ..
+new-csproj BubbleSort -here
+omnisharp
+qcd ui
+dotnet run
+dotnet -v
+dotnet --version
+systeminfo
+sudo systeminfo
+sysctl -a | grep machdep.cpu
+which dotnet
+ln -s /opt/homebrew/bin/dotnet /usr/local/bin/dotnet
+sudo ln -s /opt/homebrew/bin/dotnet /usr/local/bin/dotnet
+ll
+cd practice
+ll
+cd sorting
+ll
+new-csproj MergeSort -here
+which dotnet
+brew
+brew uninstall dotnet
+which dotnet
+dotnet
+dotnet --version
+dotnet
+.net
+dot
+dotnet
+brew install dotnet
+brew cleanup dotnet
+qcd ui
+var
+dotnet run
+docs
+cd code
+cd learning
+ls
+cd ..
+cd learning
+ls
+cd practice
+ls
+ll
+cd Sorting
+ls
+ll
+li
+gci
+ll
+dir
+code .
+qcd ui
+dotnet run
+ cd ..
+cd ..
+new-csproj QuickSort -here
+qcd ui
+ll
+qcd *ui
+cd *ui
+dotnet run
+em
+edit-module dnr
+docs
+cd learning
+ls
+cd practice
+ls
+cd Sorting
+ls
+qcd Bubb
+ll
+dnr
+ref
+dnr
+docs
+z learning
+ll
+cd practice
+ll
+..
+z practice
+ll
+cd Sorting
+ll
+qcd Bubb
+dnr
+dnr && dnr && dnr && dnr && dnr
+cd ..
+ll
+cd ..
+ll
+qcd Quic
+ll
+dnr
+edit-module dnr
+z practice
+lll
+ll
+cd sorting
+ll
+qcd qu
+ll
+dnr
+...
+npm install -g yo generator-code
+yo code
+docs
+ll
+mkdir vscode-colors
+cd vscode-colors
+yo code
+ll
+cd theme
+ll
+cd themes
+ll
+cd ..
+ll
+rmfiles theme
+ll
+sudo rmdir theme
+rmfiles theme
+sudo rmdir theme -Force
+del theme
+sudo del theme
+sudo delete theme
+delete them
+Remove-Item Theme
+yo code
+z practice
+ll
+cd Sorting
+ll
+code .
+cd ..
+ll
+cd ..
+ll
+code .
+ll
+ll
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+colors
+get-colors
+ll
+z doc
+ll
+z github
+ll
+mkdir Stocks
+rmdir Stocks
+new-csproj Stocks -here
+dotnet run Program.cs hello
+cd StocksUI
+ll
+dotnet run hello
+cd ..
+Install-Package YahooFinanceClient
+Install-Package YahooFinanceApi
+cd ..
+rmdir Stocks
+ll
+mkdir cli-calculator
+rmfiles cli-
+ll
+new-csproj Calculator -here
+dnr
+dnr hello
+dotnet run hello
+qcd ui
+dotnet run hello
+dotnet run 3 * 17
+dotnet run 3 "*" "17"
+dotnet run 3 * 17
+dotnet run 3
+z github
+ll
+rmfiles Cal
+ll
+cd ..
+ll
+mkdir clones
+cd clone
+cd clones
+git clone https://github.com/StockSharp/StockSharp.git
+open .
+dnr
+ll
+cd StockSharp
+ll
+dotnet run
+docs
+ll
+cd github
+ll
+qcd cry
+ll
+code .
+ll
+open .
+vim .gitignore
+docs
+z github
+ll
+cd BenNotes
+ll
+cd ..
+ll
+rmfiles BenNotes
+open .
+docs
+cd clones
+brew install achannarasappa/tap/ticker
+ticker -w NET,AAPL,TSLA
+ticker
+ticker -w
+ticker
+ticker -w NET,AAPL,TSLA --show-summary
+ticker -w NET,AAPL,TSLA --show-summary --show-tags --show-fundamentals --show-holdings --show-separators
+ticker -w NET,AAPL,TSLA --show-summary --show-tags --show-fundamentals --show-holdings --show-separator
+em
+stocks
+ticker -w U --show-summary --show-tags --show-fundamentals --show-holdings --show-separator
+ticker -w BLNK --show-summary --show-tags --show-fundamentals --show-holdings --show-separator
+stocks
+z code
+ll
+gows
+ed
+em
+new-go example hello
+gows
+em
+gr
+qcd H
+gr
+cd ..
+mkdir greetings
+cd greetings
+new-go example.com greetings
+cd greetings
+new-go example.com greetings
+cd ..
+mkdir test_greetings
+qcd test
+new-go example.com test_greetings
+gr
+go run .
+go mod edit -replace example.com/greetings=../greetings
+gr
+go mod tidy
+gr
+cd ..
+mkdir loops
+cd loops
+new-go example loops
+gr
+cd ..
+mkdir arrays
+cd arrays
+new-go example arrays
+gr
+cd ..
+mkdir slices
+cd slices
+new-go example slices
+gr
+cd ..
+cd arrays
+gr
+cd ../slices
+ll
+gr
+cd ..
+mkdir maps
+cd maps
+new-go example maps
+gr
+exit
+ll
+cd examples
+ll
+cd maps
+ll
+gr
+cd ..
+mkdir range
+cd range
+new-go example range
+gr
+cd .. && mkdir functions
+cd functions
+ll
+new-go example functions
+gr
+cd .. && mkdir multiplereturns
+qcd mult
+new-go example multiplereturns
+gr
+cd .. && mkdir variadics
+qcd va
+ll
+new-go example variadics
+gr
+cd .. && mkdir closures
+cd closures
+new-go example closures
+gr
+cd ..
+mkdir recursion
+cd recursion
+new-go example recursion
+gr
+cd ..
+mkdir pointers
+ll
+cd pointers
+new-go example pointers
+gr
+cd .. && mkdir StringsAndRunes
+qcd Strings
+new-go example StringsAndRunes
+gr
+cd .. && mkdir structs
+cd structs
+new-go example structs
+gr
+cd .. && mkdir methods
+cd methods
+new-go example methods
+gr
+cd .. && mkdir interfaces
+cd interfaces
+new-go example interfaces
+gr
+cd .. && mkdir embedding
+qcd emb
+new-go example embedding
+gr
+cd .. && mkdir generics
+cd generics
+new-go example generics
+gr
+pi
+Math.PI
+Math.Pi
+[math]::Pi
+(.5 * [math]::Pi * 5) * (.5 * [math]::Pi * 5) 
+25 * [math]::Pi
+em
+ep
+pi
+pi * 7
+pi
+ep
+pi
+sqrt
+[math]::sqrt(78.54)
+sqrt 78.54
+$a = [math]::sqrt(78.54)
+$a * $a
+$a = [math]::sqrt(78.53982)
+$a * $a
+22/7
+[math]::Pi
+projects
+ll
+qcd cry
+ll
+cd tcs
+qcd tcs
+ll
+cd src
+java hash.java
+java Hash.java
+javac *.java
+java hash.java
+code .
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+projects
+cd chess.io
+ll
+cd server
+npm start
+npm i
+npm start
+brew install gimp
+projects
+cd chess.io
+qcd serv
+ll
+npm i
+npm start
+cd ..
+code .
+docs
+cd learning
+ll
+code .
+em
+sum 10
+summation 10
+summation 0 10
+summation 0 20
+summation 2 14
+summation 0 20
+summation 1 20
+summation 34 56
+get-alias
+sum
+sum 2 4
+edit-module sum
+ll
+sum
+summation 34 56
+Install-Module PsFzf
+Import-Module PsFzf
+cd .config
+ll
+cd powershell
+ll
+qcd .ps1
+qcd Micro
+ll
+open .
+ep
+brew
+ll
+ep
+ref
+ll
+clear
+summation 34 56
+summation 1 100
+fact 20
+summation 1 100
+fact 20
+fact 21
+fact 20
+fact 4
+fact 5
+fact 6
+fib 4
+fib 1
+fib 3
+fib 2
+fib 10
+fib 9
+fib 10
+fib 20
+fib 32
+fib 67
+fib 66
+fib 67
+fib -12
+fib 34
+fib 21
+fib 13
+fib 10
+fib -1
+fibs 20
+fibs 20
+fibs 66
+fib 65
+fib 64
+fib 63
+fib 60
+fib 55
+fib 35
+fib 40
+fib 45
+fib 50
+fib 59
+fib 49
+fib 48
+fib 47
+fib 46
+fibs 55
+summation 1 11
+sum 10 -eq fib 10
+summation 10
+summation 1 10
+fib 10
+mod 6 7
+mod -9 13
+9 % -13
+mod 9 -13
+mod -17 34
+mod 34 35
+mod 36 35
+mod 35 35
+ll
+clear
+c
+fssdf
+c
+docs
+z powershell
+ll
+code .
+ref
+ll
+cd ..
+z src
+projects
+z crytp
+z cry
+z cryptography-project
+z tcss487
+z src
+ll
+javac *.java
+java hash.java
+ref
+fib 10
+fibs 10
+summation 1 10
+ref
+fibs 10
+stocks
+fibs 10
+summation 1 10
+c
+z chess.io
+projects
+z chess.io
+ll
+cd server
+npm start
+cd ..
+code .
+ll
+z src
+java hash.java
+z src
+java hash.java
+javac *.java
+java hash.java
+code .
+javac *.java
+java hash.java
+javac *.java
+java hash.java
+cd ..
+..
+mkdir testrepo
+cd testrepo
+git clone https://github.com/BenjuhminStewart/cryptography-project.git
+cd cryptography-project
+cd tcss487
+cd src
+javac *.java
+java Hash.java
+ls
+ll
+git clone https://github.com/BenjuhminStewart/cryptography-project.git
+cd cryptography-project
+cd tcss487
+cd src
+javac *.java
+java Hash.javagit clone https://github.com/BenjuhminStewart/cryptography-project.git
+cd cryptography-project
+cd tcss487
+cd src
+javac *.java
+git clone https://github.com/BenjuhminStewart/cryptography-project.git
+cd cryptography-project
+cd tcss487
+cd src
+javac *.java
+docs
+cd testrepo
+git clone https://github.com/BenjuhminStewart/cryptography-project.git
+cd cryptography-project
+cd tcss487
+cd src
+javac *.java
+java Hash.java
+z chess.io
+code .
+z chess.io
+code .
+..
+z cryptography-project
+z src
+java Hash.java
+z code
+ll
+cd typescript
+ll
+new-ts two-sum
+..
+ll
+rts
+em
+rts index
+tsw
+npx ts-node index.ts
+cd ..
+code .
+npx ts-node index.ts
+npx ts-node *.ts
+python
+node index.js
+ra
+node index.js
+new-csproj Practice
+..
+ll
+cd practice
+ll
+cd ..
+rmdir Practice
+ll
+new-csproj Practice
+cd ..
+new-csproj Practice
+cd ..
+new-csproj Practice
+cd ..
+new-csproj Practice
+ll
+ref
+new-csproj Practice
+cd *UI
+dotnet run
+dnr
+ll
+z code
+ll
+code .
+z chess.io
+code .
+z chess.io
+code .
+ll
+cd client
+ll
+cd entities
+ll
+vim board.js
+z chess.io
+code .
+ll
+cd docs
+docs
+ll
+cd Code
+ll
+cd ..
+cd Learning
+ll
+cd ..
+ll
+qcd doc
+ll
+practice
+cd java
+ll
+code .
+ & '/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' '/Users/benjamin/Documents/Code/Java/Practice/Subtraction/bin' 'App' 
+ cd '/Users/benjamin/Documents/Code/Java/Practice/Subtraction'; & '/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' '/Users/benjamin/Documents/Code/Java/Practice/Subtraction/bin' 'App' 
+Code
+ls
+ll
+docs
+ll
+cd Code
+ll
+cd ..
+ll
+cd GitHub
+ll
+mkdir MusicAssistant
+qcd music
+ll
+git init
+code .
+new-csproj TuneBuddy
+cd code
+z Code
+ll
+mkdir js
+cd js
+ll
+code .
+ & '/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' '/Users/benjamin/Library/Application Support/Code/User/workspaceStorage/1d8c16b7e7d268f7afac88a755b1bb2d/redhat.java/jdt_ws/js_7fc1208b/bin' 'RSA' 
+rj
+java RSA
+javac *.java
+java RSA
+22 * 28
+23 * 29
+2 ** 4
+pow 2 14
+16384 mod 47
+16384 % 47
+pow 2 11
+2048 % 47
+ & '/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' '/Users/benjamin/Library/Application Support/Code/User/workspaceStorage/1d8c16b7e7d268f7afac88a755b1bb2d/redhat.java/jdt_ws/js_7fc1208b/bin' 'FermatPrimality' 
+ll
+docs
+ll
+mkdir CalebCode
+cd CalebCode
+file
+naut
+nautilus
+open
+open .
+code .
+ll
+java CombinedVersionBitLife
+ll
+javac *.java
+java *.class
+java *.java
+ll
+cd two-sum
+ll
+cd ..
+rmfiles two-sum
+ll
+qcd two
+ll
+rmfile node_modules
+rmfiles node_modules
+rmdir node_modules
+ll
+qcd node
+ll
+rmfiles *
+ll
+rmdir balanced-match
+rm balanced
+ll
+file
+open
+nautilus
+explorer
+folder
+finder
+open .
+..
+cd ..
+open .
+ll
+docs
+ll
+cd Code
+ll
+mkdir Riddles
+cd Riddles
+mkdir 100Prisoner
+qcd 10
+ll
+dotnet new app Prisoner
+dotnet new console Prisoner
+dotnet new -h
+dotnet -h
+dotnet new -h
+dotnet new console
+ll
+code .
+dnr
+dotnet run
+d
+dotnet run
+d
+dotnet run
+docs
+cd Code
+ll
+cd Riddles
+ll
+cd 100Pris
+qcd 100
+ll
+code .
+practice
+ll
+qcd cs
+ll
+dotnet new console
+qcd ../LongestConsecutive
+qcd Long
+qcd ..
+dotnet new console
+dotnet run
+cd ..
+qcd Letter
+ll
+dotnet new console
+dotnet run
+cd js
+ll
+node prac.js
+dotnet run
+node prac.js
+12 * 12
+10 * 10 * 9
+node prac.js
+dotnet run
+node prac.js
+3 * (7 * 7)
+147 + 9 * 7
+147 + 8 * 7
+node prac.js
+cd ..
+cd csharp
+ll
+mkdir PaintHousesIII
+qcd Paint
+ll
+dotnet new console
+dotnet run
+brew upgrade powershell --cask
+em
+new-csproj Practice
+ll
+cd ..
+ll
+rmfiles Practice
+cd Practice
+ll
+code .
+ll
+cd ..
+rmfiles Practice
+ll
+rmfiles powers
+ll
+home
+new-csproj Practice
+ll
+cd ..
+rmfiles practice
+ll
+new-csproj Practice
+new-csproj Practice2
+cd ..
+ll
+rmfile Practice2
+rmfiles Practice2
+ll
+home
+new-csproj Practice2
+go
+gows
+ll
+cd go
+ll
+mkdir Code
+cd Code
+em
+cd ..
+ll
+gows
+new-go leetcode ContainsDuplicates
+gr
+em
+new-go ContainsDuplicates
+gr
+new-go TwoSum
+cd TwoSum
+gr
+new-go RemoveDuplicates
+qcd Rem
+gr
+em
+new-go practice
+gr
+cd ..
+ll
+new-go Stack
+new-go PalindromeNumber
+gr
+new-go SearchInsertPosition
+gr
+curl --silent 'https://raw.githubusercontent.com/vitorgalvao/custom-alfred-iterm-scripts/master/custom_iterm_script.applescript' | pbcopy
+About
+AppleScript for iTerm2 Alfred integration.
+Topics
+alfred iterm
+Resources
+Readme
+License
+BSD-3-Clause license
+Stars
+3.2k stars
+Watchers
+86 watching
+Forks
+433 forks
+Releases 3
+2022.1 Latest
+19 days ago
++ 2 releases
+Sponsor this project
+    https://www.paypal.me/vitorgalvao
+Packages
+No packages published
+Contributors 9
+    @stuartcryan
+    @vitorgalvao
+    @sineld
+    @anonfunc
+    @ialexryan
+    @smammy
+    @jhriv
+-- For the latest version:
+-- https://github.com/vitorgalvao/custom-alfred-iterm-scripts
+-- Set this property to true to always open in a new window
+property open_in_new_window : false
+-- Set this property to false to reuse current tab
+property open_in_new_tab : true
+-- Handlers
+on new_window()
+  tell application "iTerm" to create window with default profile
+end new_window
+on new_tab()
+  tell application "iTerm" to tell the first window to create tab with default profile
+end new_tab
+on call_forward()
+  tell application "iTerm" to activate
+end call_forward
+on is_running()
+  application "iTerm" is running
+end is_running
+on has_windows()
+  if not is_running() then return false
+  tell application "iTerm"
+    if windows is {} then return false
+    if tabs of current window is {} then return false
+    if sessions of current tab of current window is {} then return false
+    set session_text to contents of current session of current tab of current window
+    if words of session_text is {} then return false
+  end tell
+  true
+end has_windows
+on send_text(custom_text)
+  tell application "iTerm" to tell the first window to tell current session to write text custom_text
+end send_text
+-- Main
+on alfred_script(query)
+  if has_windows() then
+    if open_in_new_window then
+      new_window()
+    else if open_in_new_tab then
+      new_tab()
+    else
+      -- Reuse current tab
+    end if
+  else
+    -- If iTerm is not running and we tell it to create a new window, we get two
+    -- One from opening the application, and the other from the command
+    if is_running() then
+      new_window()
+    else
+      call_forward()
+    end if
+  end if
+  -- Make sure a window exists before we continue, or the write may fail
+  repeat until has_windows()
+    delay 0.01
+  end repeat
+  send_text(query)
+  call_forward()
+end alfred_script
+zsh
+new-go practice
+em
+new-go snippets
+gr
+rg
+new-go workflow
+new-csproj Workflow
+em
+ll
+docs
+ll
+cd Code
+ll
+CD ..
+ll
+rmfile Workflow
+rmfiles workflow
+ll
+rmfiles snipp
+ll
+rmfiles practi
+ll
+new-csproj workflow
+dr
+rd
+dotnet run
+cd workflowui
+dotnet run
+cd $user
+cd $vscodeworkspace
+ll
+docs
+cd $user
+docs
+cd Code
+ll
+cd $user
+cd go
+ll
+cd Code
+ll
+cd $user
+docs
+cd Code
+cd $user
+code .
+cd go
+cd Code
+code .
+if(query -eq "c#") {`
+cd $user`
+docs`
+cd Code`
+code .`
+} else {`
+cd $user`
+cd go`
+cd Code`
+code .`
+}
+if(c# -eq "c#") {`
+cd $user`
+docs`
+cd Code`
+code .`
+} else {`
+cd $user`
+cd go`
+cd Code`
+code .`
+}
+if("c#" -eq "c#") {`
+cd $user`
+docs`
+cd Code`
+code .`
+} else {`
+cd $user`
+cd go`
+cd Code`
+code .`
+}
+if("go" -eq "c#") {`
+cd $user`
+docs`
+cd Code`
+code .`
+} else {`
+cd $user`
+cd go`
+cd Code`
+code .`
+}
+brew install php
+brew install python
+sudo apt install python3
+sudo apt install python
+brew install pip
+brew install python
+which python
+pip install util
+conda
+pip
+pip install util
+new-go MaxAreaOfIsland
+gr
+new-go arrays
+gr
+cd ..
+ll
+rmfile arrays
+rmfiles arrays
+ll
+new-go IsAnagram
+gr
+new-go arrays
+rg
+gr
+cd ..
+rmfiles arrays
+brew install --cask dozer
+brew install --cask hiddenbar
+ll
+cd Documents
+finder
+file
+open .
+new-go OutOfBoundaryPaths
+gr
+if("c#" -eq "c#") {`
+cd $user`
+docs`
+cd Code`
+code .`
+} else {`
+cd $user`
+cd go`
+cd Code`
+code .`
+}
+new-go KInversePairsArray
+gr
+ cd /usr/local/bin
+ln -s $(which node) node
+sudo ln -s &(which node) node
+cd /usr/local/bin
+bash
+which node
+cd opt
+cd $home
+cd opt
+ll
+cd ..
+cd bin
+which node
+cd which node
+cd $(which node)
+cd .nvm
+cd nvm
+ls
+ll
+cd opt
+ls
+cd anaconda3
+ll
+cd ..
+ll
+cd ..
+ll
+cd ..
+ll
+cd ..
+ll
+cd System
+ll
+cd ..
+ll
+cd Users
+ll
+cd benjamin
+ll
+cd Public
+ll
+cd ..
+cd opt
+open .
+which node
+which homebrew
+which brew
+cd $(which brew)
+cd ..
+cd $(which brew)
+ll
+cd Library
+ll
+cd /usr/local/bin
+ll
+open .
+cd ..
+ll
+cd share
+ll
+cd ..
+cd microsoft
+ll
+cd ..
+ll
+cd ..
+ll
+cd lib
+ll
+cd opt
+cd ..
+ll
+cd bin
+ll
+cd /usr/local
+ll
+cd Cellar
+cd opt
+cd bin
+brew -v
+ls -lsa /usr/local/Cellar/
+ls -lsa /usr/local/opt/
+ll
+cd node
+ll
+open .
+cd Downloads
+ll
+  rmdir $DIR
+  rmdir "Applications"
+  rm Applications
+ll
+rmdir shift
+ll
+mv *.app Applications
+mv *.App /Applications
+cd $Downloads
+ll
+cd Downloads
+ll
+mv *.app /Applications
+ll
+rm Applications
+ll
+rm *.dmg
+ll
+rmdir *
+ll
+cd shift.dmg
+open shift.dmg
+hdiutil attach -noverify -nomount shift.dmg
+diskutil list
+cd /Volumes/Shift
+ll
+hdiutil attach -noverify -nomount shift.dmg
+cd Downloads
+hdiutil attach -noverify shift.dmg
+hdiutil attach -noverify -nomount shift.dmg
+for DMG in "$@"; do`
+echo hello
+for .dmg in "$@"; do`
+echo hello
+foreach(.dmg in "$@") { `
+echo hello`
+}
+foreach(var i in "$@") { `
+echo i`
+}
+foreach($i in "$@") { `
+echo $i`
+}
+foreach($i in pwd) { `
+echo $i`
+}
+foreach($i in *.dmg) { `
+echo $i`
+}
+oreach($i in ) {`
+> echo $i`
+> }
+$files = gci
+$files
+for($i=0; $i -lt $files.Count; i++) {`
+echo $files[$i]`
+}
+for($i=0; $i -lt $files.Count; i++) {`
+echo $files[$i].FullName`
+}
+for($i=0; $i -lt $files.Count; $i++) {`
+echo $files[$i].FullName`
+}
+for($i=0; $i -lt $files.Count; $i++) {`
+$outfile = $files[$i].FullName`
+}
+for($i=0; $i -lt $files.Count; $i++) {`
+echo $files[$i].FullName.Split("/")[^1]`
+}`
+`
+`
+
+for($i=0; $i -lt $files.Count; $i++) {`
+echo $files[$i].FullName.Split("/")`
+}`
+`
+`
+
+for($i=0; $i -lt $files.Count; $i++) {`
+$output = $files[$i].FullName.Split("/")`
+echo $output[$output.Length]`
+}`
+`
+`
+
+for($i=0; $i -lt $files.Count; $i++) {`
+$output = $files[$i].FullName.Split("/")`
+echo $output[$output.Length-1]`
+}`
+`
+`
+
+for($i=0; $i -lt $files.Count; $i++) {`
+$output = $files[$i].FullName.Split("/")`
+echo $output[^2]`
+}`
+`
+`
+
+for($i=0; $i -lt $files.Count; $i++) {`
+$output = $files[$i].FullName.Split("/")`
+echo $output[-2]`
+}`
+`
+`
+
+for($i=0; $i -lt $files.Count; $i++) {`
+$output = $files[$i].FullName.Split("/")`
+echo $output[-1]`
+}`
+`
+`
+
+em
+gci "/Downloads"
+gci Downloads
+gci $User/Downloads
+gci "$User/Downloads"
+docs
+gci Downloads
+cd Downloads
+cd ..
+cd Downloads
+ll
+cd ..
+ll
+cd $User/Downloads
+cd "$User/Downloads"
+cd "$User/Downloads/"
+cd "/$User/Downloads"
+home
+auto-dump-dmgs
+cd "/Volumes/shift.dmg"
+cd /Volumes/shift.dmg
+cd Volumes
+cd /Volumes
+ll
+auto-dump-dmgs
+ll
+hdiutil -help
+auto-dump-dmgs
+hdiutil -help
+auto-dump-dmgs
+zsh
+em
+c
+auto-dump-dmgs
+em
+auto-dump-dmgs
+cd /Volumes
+ll
+rm Shift
+rmdir Shift
+ll
+rmdir Shift
+rmdir -R Shift
+rmdir -h
+man rmdir
+rmdir "Shift 1"
+open .
+ll
+auto-dump-dmgs
+hdiutil -help
+hdiutil -nomount
+hdiutil
+hdiutil attach
+cd /Volumes
+ll
+auto-dump-dmgs
+em
+cd /Volumes
+ll
+open .
+ll
+home
+auto-dump-dmgs
+em
+DumpDMGs
+ll
+cd ..
+ll
+rmdir Shift
+open .
+DumpDMGs
+cd ..
+ll
+rmdir Shift
+rm Shift
+ll
+open .
+lk
+ll
+which pwsh
+DumpDMGs
+cd ..
+ll
+open .
+    $files = Get-ChildItem $1    
+    for ($i = 0; $i -lt $files.Count; $i++) {`
+        $output = $files[$i]`
+        $dmg = $output.FullName.Split("/")[-1].Split(".dmg")[0]`
+        hdiutil attach -noverify -nobrowse $output`
+        Set-Location "/Volumes/$dmg"`
+        mv *.app /Applications`
+    }
+cd Library
+cd ..
+cd /Volumes
+ll
+cd Downloads
+home
+cd Downloads
+    $files = Get-ChildItem
+    for ($i = 0; $i -lt $files.Count; $i++) {`
+        $output = $files[$i]`
+        $dmg = $output.FullName.Split("/")[-1].Split(".dmg")[0]`
+        hdiutil attach -noverify -nobrowse $output`
+        Set-Location "/Volumes/$dmg"`
+        mv *.app /Applications`
+    }
+cd $User
+cd Downloads
+cd $User
+cd Downloads
+cd /Volumes
+ll
+open .
+DumpDMGs
+cd /Volumes
+ll
+cd shift
+which bash
+cd /Volumes
+ll
+cd Downloads
+home
+cd Downloads
+mkdir test
+cd test
+vim test.txt
+ll
+open .
+docs
+ll
+cd Code
+ll
+cd ../,,
+kk
+ll
+cd ..
+..
+docs
+cd Code
+...
+ll
+c
+mkdir -m 0700 D
+chmod -N Documents
+rm -r Documents; mv -v D Documents
+chmod +a "everyone deny delete" Documents
+killall Finder
+em
+ep
+sdasdalsma;lmf
+sdfdsdasdaskdnfslnd`
+hello
+c
+`
+dsdsdsdi0`
+dsdsdsdi0`
+dsdsdsdi0`
+dsdsdsdi0`
+dsdsdsdi0`
+dsdsdsdi0`
+pppppp`
+pppppp`
+pppppp
+c
+em
+docs
+ll
+qcd V
+ll
+vim prac.txt
+ll
+rm prac.txt
+ll
+rmfiles VimPractice
+cd ..
+ll
+rmdir VimPractice
+ll
+qcd Vim
+ll
+rm 1
+ll
+cd ,,
+..
+rmdir VimPractice
+ll
+new-go PascalsTriangle
+gr
+defaults write -g ApplePressAndHoldEnabled -bool false
+new-pass 20
+pm 20
+New-Pass 20 2
+newpass 20
+docs
+ll
+cd PassMan
+mkdir Robinhood
+vim Robinhood
+ll
+docs
+ll
+cd PassMan
+ll
+cd Robinhood
+vim recovery.txt
+docs
+ll
+cd PassMan
+ll
+cd codes
+ll
+vim firefox-codes.txt
+docs
+qcd codes
+ll
+qcd pas
+qcd codes
+vim firefox-codes.txt
+new-go NumberOfMatchingSubsequences
+em
+gocurr NumberOf
+gr
+code .
+gr
+home
+docs
+ll
+cd Code
+c
+ll
+c
+code .
+c
+docs
+ll
+home
+gocode
+docs
+ll
+cd ..
+docs
+ll
+home
+mkdir -m 0700 D
+chmod -N Documents
+rm -r Documents; mv -v D Documents
+chmod +a "everyone deny delete" Documents
+killall Finder
+docs
+ll
+gocode
+em
+cd $user
+docs
+gocode
+docs
+gocode
+ll
+c
+cd ..
+home
+docs
+ll
+cd Notes
+ll
+cd ..
+cd Library
+ll
+qcd Appli
+qcd Application Support
+qcd "Application Sup"
+ll
+cd obsidian
+ll
+cd preference
+qcd pre
+qcd pref
+qcd Prefere
+cd Preferences
+ll
+open .
+ls
+docs
+cd notes
+ll
+ls
+open .
+ls
+ll
+c
+docs
+ll
+cd ..
+which pwsh
+cd /usr
+ll
+cd /local
+cd local
+ll
+cd bin
+kk
+ll
+cd ..
+ll
+cd microsoft
+ll
+cd ..
+ll
+cd bin
+ll
+cd ..
+cd share
+ll
+cd ..
+ll
+cd lib
+ll
+cd ..
+em
+home
+ll
+cd .local
+ll
+cd share
+ll
+cd nvim
+ll
+code .
+open .
+docs
+ll
+vim new.txt
+ll
+vim test.txt
+ll
+cd Notes
+ll
+cd .obsidian
+ll
+vim .obsidian.rc
+ll
+rm .obsidian.rc
+vim .obsidian.rc
+vim .obsidian.vimrc
+rm .obsidian.rc
+ll
+vim .obsidian.vimrc
+docs
+cd Notes
+;;
+ll
+vim .obsidian.vimrc
+open .
+vim .obsidian.vimrc
+  /bin/zsh /var/folders/bn/kwmf57917dd419r9rh339cpr0000gn/T/tmp.ntJByewT
+  /bin/zsh /var/folders/bn/kwmf57917dd419r9rh339cpr0000gn/T/tmp.A7jl0kVd
+docs
+cd notes
+ll
+cd ..
+z notes
+ll
+cd .obsidian
+ll
+cd themes
+ll
+code sodalite.css
+ll
+cd ..
+ll
+code app.json
+code appearance.json
+cd themes
+ll
+vim sodalite.css
+code sodalite.css
+dc ..
+cd ..
+ll
+cd ..
+ll
+vim .obsidian.vimrc
+cd .obsidian
+ll
+cd themes
+ll
+vim app.css
+code sodalite.css
+home
+c
+ep
+z notes
+ll
+cd .obsidian
+ll
+cd themes
+ll
+code sodalite.css
+new-go TestEfficiency
+code .
+gr
+new-csproj ReverseLinkedListII
+z notes
+ll
+cd .obsidian
+ll
+z themes
+ll
+code sodalite.css
+new-csproj SlidingWindows
+code.
+code .
+gr
+dnr
+gr
+dnr
+gr
+dnr
+gr
+dnr
+gr
+dnr
+gr
+dnr
+c
+home
+gocode
+code .
+ll
+cd ..
+ll
+cd ..
+ll
+cd ..
+gows
+ll
+new-go SlidingWindows
+gr
+g
+gr
+new-go SearchIn2DMatrix
+gr
+new-go FindFirstAndLast
+gr
+gocode
+ll
+cd ..
+gows
+ll
+code SlidingWindows
+gows
+ll
+code SlidingWindows
+new-go Slices
+code .
+gr
+gows
+ll
+qcd Slid
+code .
+gr
+docs
+ll
+cd Notes
+ll
+cd .obsidian
+ll
+cd themes
+ll
+code sodalite.css
+docs
+cd Notes
+ll
+vim .obsidian.vimrc
+cd ..
+ll
+cd ..
+ll
+cd Documents
+ll
+cd Github
+git clong https://github.com/808scxnt/Twitter-Chirp.git
+git clone https://github.com/808scxnt/Twitter-Chirp.git
+ll
+cd Twitter-Chirp
+ll
+new-go CountOnesAfterKReplacements
+cd ..
+code slidingWindows
+rmfiles CountOnesAfterK
+ll
+gr
+cd ..
+cd ..
+docs
+cd Notes
+;;
+ll
+qcd 000
+open .
+cd /Users/benjamin/Library/Mobile Documents/iCloud~com~logseq~logseq/Documents/logseq/custom.css
+docs
+ll
+cd ..
+..
+ll
+cd Shared
+;;
+ll
+qcd Re
+ll
+cd ...
+...
+..
+ll
+..
+ll
+cd System
+ll
+ep
+cd icloud
+em
+icloud
+..
+ll
+cd Library
+ll
+icloud
+ll
+open .
+cd Logseq
+open .
+ll
+cd Documents
+ll
+cd ..
+ll
+z git
+git clone https://github.com/DenaroCF/Highlighters-for-Logseq.git
+gows
+ll
+code IsAnagram
+gr
+home
+c
+gows
+ll
+cd ..
+ll
+cd ..
+ll
+which go
+brew
+brew uninstall go
+which go
+go
+brew install go
+go
+gows
+em
+cargo
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+which rust
+which rs
+rs
+cargo
+docs
+ll
+cd Code
+ll
+cd rs
+code .
+ll
+cd ..
+ll
+cd rs
+ll
+code .
+cargo new practice
+cd practice
+ll
+cargo run src
+em
+cd ..
+ll
+cd cs
+ll
+rmfiles *
+ll
+open .
+dotnet new Practice
+dotnet new Console -name Practice
+dotnet new console
+ll
+cd ..
+ll
+mkdir ts
+ll
+new
+home
+cd $vscodeworkspace
+vscode
+cd $vscodeworkspace
+vscode
+docs
+ll
+cd "$user"
+cd Documents/Code
+workspace
+lsn
+ll
+lsn
+workspace
+lsn
+rn golang go
+rename golang go
+rename
+rm
+rn
+re
+rnm
+ch
+c
+Get-Commands
+Get-Alias
+ren golang go
+ll
+new -test
+cargo
+workspace
+ll
+cd rs
+cargo new
+cargo new practice
+ll
+rmfiles practice
+open .
+cargo new practice
+ll
+cd ..
+ll
+rmfiles java
+ll
+rmdir java
+cd java
+ll
+rmdir Practice
+open .
+cd ..
+ll
+open .
+ll
+c
+new -go Practice
+new
+ll
+cd ..
+ll
+cd go
+ll
+open .
+new -go Practice
+new go Practice
+ll
+open .
+cd ..
+ll
+cd ..
+ll
+lsn
+new cs Practice
+cd ..
+new cpp Practice
+new rs Practice
+run rs
+workspace
+open .
+new cpp Practice
+run cpp
+ll
+rn cpp
+run cpp
+home
+new rs Practice
+run rs
+em
+home
+new cs Practice
+run cs
+c
+home
+new py Practice
+Get-ChildItem Env: | Select Name | Export-Csv -Path /var/folders/bn/kwmf57917dd419r9rh339cpr0000gn/T/tmp-46125jGsBDxwVlsVxtxt -NoTypeInformation
+& /opt/homebrew/bin/python3 -m pip install -U autopep8
+run py
+run py
+which py
+which python3
+which python
+home
+new ts Practice
+run ts
+new js Practice
+run js
+run cs
+run py
+run js
+home
+new go Practice
+go run
+run go
+new cpp Arrays
+new rs Arrays
+run go
+run rs
+cargo
+cd ..
+ren Arrays arrays
+qcd a
+ll
+qcd Arr
+ll
+c
+run r
+run rs
+new rs Vectors
+run rs
+c
+home
+workspace
+ll
+mkdir pl
+cd pl
+perl -v
+em
+new pl Practice
+ll
+cd ..
+ll
+cd pl
+ll
+home
+new pl Practice
+run pl
+which pl
+run pl
+perl main.pl
+which perl
+perl main.pl
+run pl
+cd ..
+ll
+mkdir jl
+cd jl
+code .
+julia
+ruby -v
+cd ..
+mkdir rb
+ll
+em
+new rb Practice
+run rb
+cd ..
+open .
+home
+curl https://bun.sh/install | bash
+new js bun
+bun main.js
+cd ..
+open .
+cd ..
+cd ts
+ll
+qcd p
+ll
+bun main.ts
+em
+ home
+brew install elixir
+workspace
+mkdir exs
+ll
+cd exs
+code .
+mix run
+mix
+mix new main
+mix run
+cd main
+ll
+mix run
+ll
+cd ..
+elixir main.exs
+open .
+workspace
+cd exs
+ll
+cd main
+mix run
+code .
+mix run
+iew
+iex
+iex main.exs
+iex.bat
+iex
+iex --werl
+iex -S mix
+iex mix
+man iex
+iex -S main
+iex -S
+iex main
+iex main.exs
+iex mix
+cd lib
+iex main
+ll
+mix run
+cd ..
+mix run
+cd ..
+open .
+em
+new exs Practice
+run exs
+python -v
+python3 -v
+python3 --version
+new py basics
+open ~/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks/Books
+open ~/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks
+cd Downloads
+ll
+qcd lua
+qcd lua-5.4.4
+cd lua-5.4.4
+ll
+make
+make test
+make all install
+sudo make all install
+which lua
+lua
+which lua
+workspace
+ll
+mkdir lua
+cd lua
+mk practice.lua
+code .
+lua practice.lua
+em
+ll
+rm practice.lua
+ll
+home
+new lua Practice
+run lua
+python3
+c
+python3
+c
+new py Numbers
+run py
+new py Numbers
+run py
+cd ..
+cd lua
+ll
+new lua TwoSum
+run lua
+ll
+lua main.lua
+run lua
+run lua -c 10
+new rb TwoSum
+run rb
+new py TwoSum
+run py
+new go TwoSum
+run go
+new exs TwoSum
+run exs
+iex main
+iex -S main.exs
+iex
+c
+two_sum.([1,2,3,4,5,6,7,8,9], 13)
+run exs
+new pl TwoSum
+run pl
+cd ..
+ll
+code Practice
+cd TwoSum
+ll
+run pl
+run main.pl
+perl main.pl
+run pl
+cd ..
+cd perl
+cd rb
+;;
+ll
+cd TwoSum
+code .
+run rb
+cd ..
+cd ..
+cd elx
+cd exs
+ll
+cd TwoSum
+code TwoSum
+ll
+code .
+run rb
+run exs
+new go Learning
+open .
+cd ..
+open .
+new exs Learning
+iex
+c("main.exs")
+elixir
+get-alias
+remove-alias -Name iex
+iex.bat
+iex
+iex.exe
+iex.cmd
+iex.exe
+Get-Command iex
+Get-Command -All iex -Syntax
+/opt/homebrew/bin/iex
+ep
+which iex
+exs
+workspace
+cd exs
+cd Learning
+exs
+em
+run exs
+exs
+run exs
+exs
+new exs TailRecursion
+exs
+new exs Maps
+exs
+new exs PatternMatching
+exs
+new exs AnonymousFunctions
+exs
+new exs Recursion
+exs
+new go factorial
+run go
+workspace
+cd exs
+ll
+cd Recursion
+code .
+new exs looping
+exs
+new exs ListComprehension
+exs
+new exs ExceptionHandling
+exs
+new exs Concurrency
+exs
+workspace
+cd exs
+ll
+cd TwoSum
+ll
+code .
+c("main.exs")
+exs
+workspace
+ll
+cd exs
+ll
+cd TwoSum
+ll
+exs
+elixir Solution.main
+elixir main.exs
+ll
+elixir Solution.exs
+elixir Solution.main(2)
+elixir main.exs
+mix run
+cd ..
+mix
+cd Mix
+mkdir Mix
+cd Mix
+mix new
+mix new Practice
+mix new practice
+cd practice
+mix test
+code .
+mix run
+exs
+cd lib
+exs
+cd lib
+elixir practice.ex
+elixir practice.ex:Practice.hello
+cd ..
+ cd ..
+open .
+elixir -v
+vim .iex.exs
+workspace
+ll
+cd exs
+ll
+cd TwoSum
+exs
+workspace
+ll
+cd exs
+which elixir
+cd /opt/homebrew/bin/elixir
+...
+ll
+cd System
+ll
+qcd Lib
+ll
+cd ..
+ll
+cd ..
+ll
+..
+cd Library
+ll
+..
+ll
+cd App
+qcd App
+ll
+cd ..
+ll
+cd Users
+;;
+cd ..
+cd System
+cd /usr/local
+ll
+cd Cellar
+cd opt
+cd lib
+ll
+cd ..
+ll
+cd bin
+ll
+cd ..
+brew
+brew info
+brew config
+cd /opt/homebrew
+ll
+which elixir
+cd bin
+cd elixir
+ll
+workspace
+cd exs
+ll
+cd TwoSum
+ll
+vim .iex.exs
+exs
+workspace
+cd exs
+qcd two
+ll
+vim .iex.exs
+workspace
+exs
+cd exs
+qcd tw
+vim .iex.exs
+exs
+vim .iex.exs
+vim main.exs
+exs
+vim .iex.exs
+workspace
+ll
+cd exs
+ll
+vim .iex.exs
+vim main.exs
+vim .iex.exs
+exs
+vim main.exs
+vim .iex.exs
+cd twoSum
+code .
+exs
+vim .iex.exs
+exs
+cd ..
+ll
+vim .iex.exs
+em
+get-alias
+cd ..
+ll
+vim .iex.exs
+qcd tw
+ll
+rmfiles .iex.exs
+exs
+code .
+exs
+cpi ../.iex.exs ./
+exs
+cd ..
+mkdir DEFAULTS
+ll
+open .
+cd twoSum
+ll
+open .
+cpi ../DEFAULTS/.iex.exs ./
+code .
+exs
+cd ..
+cd DEFAULTS
+code .
+exs
+em
+new exs ValidAnagram
+code .
+exs
+cd ..
+cd TwoSum
+exs
+cd ../ValidAnagrams
+cd ../ValidAnagram
+ll
+exs
+workspace
+cd exs
+;;
+ll
+qcd Val
+ll
+exs
+workspace
+cd exs
+qcd v
+code .
+exs
+home
+brew cask
+brew install cask
+cask
+cask install htop
+man cask
+brew
+brew uninstall cask
+brew instlal htop
+brew install htop
+htop
+brew install speedtest-cli
+speedtest
+sudo speedtest
+speedtest-cli
+sudo speedtest-cli
+man speedtest
+help speedtest
+help speedtest-cli
+brew speedtest
+brew speedtest-cli
+brew uninstall speedtest-cli
+speedtest
+speedtest-cli
+workspace
+cd exs
+mkdir ProgrammingElixir
+cd ProgrammingElixir
+code .
+c
+exs
+c
+exs
+cd ../TwoSum
+code .
+icloud
+ll
+cd Logseq
+ll
+cd Documents
+ll
+cd ..
+open .
+new go MaxSumSubarray
+workspace
+gv
+gc
+c
+gv
+ga
+gv
+ll
+c
+cd go
+mkdir DEFAULTS
+ll
+cd DEFAULTS
+ll
+code .
+mk main.go
+code .
+em
+cd ..
+ll
+qcd Max
+ll
+rm main.go
+ll
+cpi ../DEFAULTS/* ./
+ll
+cd ..
+ll
+cd cpp
+mkdir DEFAULTS\
+ll
+ren DEFAULTS\ DEFAULTS
+cd DEFAULTS
+open .
+cd DEFAULTS
+code .
+mk main.cpp
+run cpp
+run cpp 5
+run cpp
+cd ..
+ll
+cd ..
+new cpp MaxSumSubarray
+ll
+cd cs
+mkdir DEFAULTS
+cd DEFAULTS
+ll
+dotnet new console
+code .
+ll
+cd ..
+ll
+cd ..
+em
+new cs MaxSumSubarray
+open .
+cd ..
+ll
+rmdir MaxSumSubarray
+open .
+new cs MaxSumSubarray
+cd ..
+open .
+ll
+new cs MaxSumSubarray
+open .
+ll
+cd ..
+ll
+new cs MaxSumSubarray
+open .
+new cs MaxSumSubarray
+ll
+cd ..
+ll
+open .
+new cs MaxSumSubarray
+cd ..
+open .
+new cs MaxSumSubarray
+man xcopy
+xcopy
+c
+cd .. open .
+cd .. & open .
+ll
+cd ..
+new cs MaxSumSubarray
+cd ..
+open .
+ll
+new cs MaxSumSubarray
+cd ..
+open .
+new cs MaxSumSubarray
+cd ..
+open .
+new cs MaxSumSubarray
+cd ..
+ll
+open .
+ll
+new cs MaxSumSubarray
+ls -Force
+ls
+ll -FORCE
+ll
+lsn
+lsn -FORCE
+lsn
+ll
+cd ..
+ll
+cd ..
+ll
+cd go
+ll
+cd DEFAULTS
+ll
+cd ..
+ll
+cd jl
+ll
+julia
+cd ..
+cd js
+ll
+cd DeFAULTS
+mkdir DEFAULTS
+cd DeFAULTS
+vim main.js
+cd ..
+ll
+cd ..
+new js MaxSumSubarray
+cd ..
+ll
+cd ..
+ll
+cd lua
+ll
+cd practice
+ll
+vim main.lua
+cd ..
+ll
+ren Practice DEFAULTS
+ll
+cd ..
+ll
+cd go
+ll
+cd ..
+ll
+cd cpp
+ll
+cd ..
+cd cs
+ll
+cd ..
+ll
+cd exs
+ll
+cd ..
+ll
+cd jl
+ll
+mkdir DEFAULTS
+ll
+cd ..
+ll
+cd pl
+ll
+ren Practice DEFAULTS
+ll
+cd DeFAULTS
+ll
+vim main.pl
+ll
+cd ..
+ll
+cd ..
+ll
+cd py
+ll
+ren Practice DEFAULTS
+ll
+cd DeFAULTS
+ll
+vim main.py
+ll
+cd ..
+ll
+cd rb
+ll
+ren Practice DEFAULTS
+ll
+cd deFAULTS
+ll
+vim main.rb
+cd ..
+ll
+cd TwoSum
+ll
+cd TwoSum
+vim main.rb
+cd ../DEFAULTS
+;;
+ll
+code /
+code .
+rb main.ruby
+ruby main.ruby
+run rb
+cd ..
+ll
+cd rs
+ll
+cd Practice
+ll
+cd src
+ll
+vim main.rs
+cd ..
+new rs MaxSumSubarray
+cd ..
+mkdir DEFAULTS
+cd ..
+ll
+cd ts
+mkdir DEFAULTS
+qcd d
+ll
+vim main.ts
+cd ..
+ll
+cd Practice
+ll
+vim main.ts
+rm main.ts
+ll
+cd ..
+rmdir Practice
+ll
+cd ..
+ll
+cd ..
+workspace
+open .
+cd exs
+ll
+cd TwoSum
+exs
+code .
+exs
+workspace
+cd cpp
+ll
+cd Practice
+ll
+code .
+cd ../DEFAULTS
+ll
+code .
+cd ..
+cd Practice
+ll
+run cpp
+new cpp TeachLamech
+cd ..
+ll
+cd ..
+ll
+cd Code
+ll
+cd cpp
+ll
+cd TeachLamech
+ll
+downloads
+ll
+cd Downloads
+ll
+open .
+cd ..
+qcd Down
+ll
+open .
+cd ..
+open .
+workspace
+cd cpp
+ll
+qcd Tea
+run cpp
+new go SumList
+run go
+new py SumList
+run pu
+run py
+python3 main.py
+run
+run rb
+run java
+run cpp
+run cs
+c
+new exs SumList
+cd ..
+cd ..
+cd exs
+ll
+open .
+em
+workspace
+ll
+cd exs
+ll
+cd DEFAULTS
+ll
+open .
+new exs SumList
+exs
+cd ..
+ll
+open .
+new exs SumList
+open .
+new exs SumList
+exs
+workspace
+cd exs
+ll
+cd SumList
+exs
+new go SlidingWindows
+run go
+go run .
+run go
+em
+workspace
+cd go
+ll
+cd SlidingWindows
+ll
+code .
+run go
+max_sum
+run go
+pip install DALL-E
+brew install pip
+pip
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3 get-pip.py
+pip
+pip install DALL-E
+DALL-E
+ll
+cargo run
+go run .
+workshop
+workspace
+ll
+cd go
+ll
+qcd slidin
+ll
+run go
+ll
+mk min_sum.go
+code min_sum.go
+run go
+docs
+ll
+cd GitHub
+ll
+cd InterviewPrep
+ll
+cd a
+ll
+cd ..
+ren a GrokkingCodeInterview
+ll
+qcd Grokking
+ll
+cd 1
+qcd 1
+1cd 1. I
+qcd 1. I
+qcd 1.
+1cd "1. I"
+qcd "1. I"
+ll
+cd ..
+ll
+open .
+ll
+em
+cd $usr/Documents/Code
+cd $user/Documents/Code
+cd "$user/Documents/Code"
+cd $user
+cd Documents/Code
+ll
+$user
+ll
+cd ..
+..
+cd $usr/Documents/Code/jl
+cd $user/Documents/Code/jl
+cd "Benjamin/Documents/Code"
+cd 
+cd "Users/benjamin/Documents/Code"
+docs
+cd "Users/benjamin/Documents/Code"
+cd "/Users/benjamin/Documents/Code"
+workspace
+gows
+cd $gows
+cd $pyws
+Set-Location $gows
+Set-Location /$gows
+Set-Location $gows
+cd $workspace/go
+cd "$workspace/go"
+cd "/$workspace/go"
+cd "$workspace" + "/go"
+$gows = $workspace + "/go"
+cd $gows
+$gows = $workspace + "go"
+cd $gows
+$gows = $workspace + "go"
+$copyFrom - $gows + "DEFAULTS/*"
+$copyFrom = $gows + "DEFAULTS/*"
+ls $copyFrom
+$copyFrom = $gows + "DEFAULTS"
+ls $copyFrom
+$copyFrom = $gows + "/DEFAULTS"
+ls $copyFrom
+$copyFrom = $gows + "DEFAULTS"
+cd ..
+ll
+cd go
+ll
+cd ..
+cd $gows
+ll
+cd ..
+$gows = $workspace + "go"
+cd $gows
+ll
+cd ..
+$xyz = $workspace + "go"
+cd $xyz
+;;
+ll
+cd $workspace
+ll
+cd $workspace
+cd $main
+docs
+cd $workspace
+cd "/Users/benjamin/Documents/Code"
+home
+workspace
+cd $workspace
+workspace
+home
+set-Location $workspace
+cd $workspace
+home
+cd $main + "/Documents/Code"
+cd $main
+docs
+cd $main
+gci $workspace
+cd $workspace
+$main
+ll $main
+ll $workspace
+gci $github
+gci
+cd $documents
+new go Grokking
+..
+ll
+rmdir Grokking
+rmdir Grokking -Force
+sudo rmdir Grokking
+rmdir Grokking -Recurse
+open .
+new go Test
+new go A
+ll
+docs
+cd githubg
+cd github
+ll
+qcd Inter
+ll
+qcd grok
+ll
+docs
+cd Code
+ll
+cd cs
+ll
+cd Grokking
+ll
+qcd 01
+ll
+mkdir "1.1 - Introduction"
+cd 1.1
+cd "1.1"
+qcd "1.1"
+;;
+ll
+dotnet new console
+ll
+dotnet run
+ll
+mkdir code
+cd code
+dotnet new
+dotnet new console
+ll
+cod .
+code .
+run cs
+ll
+cd ..
+ll
+cd ..
+ll
+mkdir "1.2 - Maximum Sum Subarray of Size K"
+qcd 1.2
+ll
+mkdir code
+cd code
+ll
+dotnet new console
+code .
+run cs
+cd ..
+mkdir "1.3 - Min Size Array Given Sum"
+qcd 1.3
+mkdir code
+cd code
+dotnet new console
+code .
+run cs
+ll
+cd ..
+ll
+cd ..
+ll
+mkdir "1.4 - Longest Substring with K Distinct Characters"
+qcd 1.4
+mkdir code
+ll
+cd code
+dotnet new console
+code .
+run cs
+cd ..
+ll
+cd ..
+mkdir "1.5 - Fruits In Baskets"
+mkdir code
+cd code
+dotnet new console
+code .
+run cs
+cd ..
+ll
+mkdir "1.6 - Longest Substring Without Repeating"
+qcd 1.6
+mkdir code
+cd code
+dotnet new console
+code .
+docs
+cd Code
+ll
+cd cs
+ll
+cd Grokking
+ll
+qcd 01
+ll
+open .
+run cs
+cd code
+ll
+run cs
+run cs
+ll
+cd ..
+ll
+cd ..
+mkdir "1.7 - Longest Repeating Substring with K Replacements"
+qcd 1.7
+mkdir code
+cd code
+dotnet new console
+code .
+run code
+run cs
+cd ..
+ll
+mkdir "1.8 - Longest Subarray of Ones After K Replacements"
+qcd 1.8
+ll
+mkdir code
+cd code
+dotnet new console
+code .
+run cs
+c
+home
+c
+home
+dasdadfgsjdhalskdjwkg
+asdl;agl;dka;lskda;sld
+c
+ep
+which vim
+cd /usr/bin/vim
+cd /usr
+ll
+cd bin
+ll
+cd vim
+vim ~/.vimrc
+$vim = "~/.vimrc"
+vim ~/.vimrc
+vim ~/.nvimrc
+neovim
+which nvim
+..
+ll
+cd benjamin
+ll
+cd ..
+cd .
+cd ..
+ll
+cd System
+ll
+cd ..
+cd Library
+l
+ll
+cd ..
+ll
+cd Users
+ll
+cd Shared
+ll
+qcd r
+ll
+qcd conf
+ll
+qcd o
+qcd p
+ll
+qcd etc
+ll
+...
+..
+ll
+cd ..
+ll
+cd Library
+ll
+cd Microsoft
+ll
+cd ..
+ll
+home
+ll
+open .
+cd .config
+ll
+cd nvim
+ll
+config
+ll
+cd nvim
+ll
+vim mappings.vim
+vim init.vim
+cd ..
+vim ~/.vimrc
+`
+dasdasdasdasdasdads
+p
+`
+dasdasdasdasdasdads
+asdksfghsjfhsjhsjdhgsf
+`
+dasdasdasdasdasdads
+sfsdfsdfsdfsdf`
+dasdasdasdasdasdads`
+dasdasdasdasdasdads`
+dasdasdasdasdasdads`
+dasdasdasdasdasdads
+`
+dasdasdasdasdasdads
+c
+cd Downloads
+ll
+open .
+home
+ll
+cd Downloads
+ll
+rm *
+ll
+workspace
+ll
+brew install bazelisk
+brew install llvm
+export PATH="$(brew --prefix llvm)/bin:${PATH}"
+bash
+ll
+workspace
+ll
+git clone https://github.com/carbon-language/carbon-lang.git
+cd carbon-lang
+ll
+bazbazel run //explorer -- ./explorer/testdata/print/format_only.carbon
+bazel run //explorer -- ./explorer/testdata/print/format_only.carbon
+ll
+cd testdata
+vim /explorer/testdata/ben.carbon
+workspace
+ll
+cd carbon-lang
+ll
+cd explorer
+ll
+cd data
+ll
+cd ..
+mkdir testdata
+cd testdata
+ll
+vim explorer/testdata/ben.carbon
+..
+bazel run //explorer -- ./explorer/testdata/ben.carbon
+neofetch
+brew install neofetch
+neofetch
+ll
+neofetch
+c
+neofetch
+ep
+ll
+c
+lsc
+ll
+c
+icloud
+docs
+\r
+ll
+pwsh
+neofetch
+c
+neofetch
+which neovim
+which nvim
+workspace
+code .
+home
+config
+ll
+cd nvim
+ll
+vim init.vim
+vim macos.vim
+ll
+cd themes
+ll
+cd ..
+cd colors
+ll
+cd ..
+cd after
+ll
+rm *
+ll
+cd ..
+ll
+cd ..
+open .
+git clone https://github.com/LunarVim/Neovim-from-scratch.git ~/.config/nvim
+ll
+cd nvim
+ll
+nvim
+workspace
+ll
+cd js
+ll
+cd Practice
+ll
+nvim main.js
+run js
+nvim main.js
+run js
+nvim main.js
+run js
+cd ..
+ll
+cd ..
+ll
+cd cs
+ll
+cd Grokking
+ll
+qcd 01
+ll
+qcd 1,1
+qcd 1.1
+ll
+cd code
+ll
+nvim Program.cs
+run cs
+workspace
+ll
+cd py
+ll
+cd DEFAULTS
+ll
+vim
+vim main.py
+run py
+vim main.py
+run py
+ll
+workspace
+ws
+em
+ws
+ll
+cd cpp
+ll
+cd Practice
+ll
+vim main.cpp
+run cpp
+vim main.cpp
+run cpp
+cd ..
+ws
+ll
+cd exs
+ll
+cd SumList
+ll
+vim main.exs
+nvim
+brew prettier
+brew
+brew search prettier
+brew install prettier
+nvim
+brew search black
+brew install black
+brew search stylua
+brew install stylua
+ws
+ll
+cd go
+ll
+cd factorial
+l
+ll
+vim main.go
+go run main.go
+go run main.go hello
+vim main.go
+go run main.go hello
+vim main.go
+go run main.go hello
+vim main.go
+go run main.go hello
+vim main.go
+go run main.go hello
+go run main.go World
+go run main.go Go
+go run main.go Hello
+go run main.go World
+vim main.go
+go run main.go
+vim main.go
+go run main.go 3
+vim main.go
+go run main.go 3
+vim main.go
+go run main.go 3
+go run main.go 34
+vim main.go
+go run main.go 34
+vim main.go
+go run main.go 34
+go run main.go wer
+vim main.go
+go run main.go wer
+vim main.go
+go run main.go wer
+go run main.go 34
+vim main.go
+go run main.go 34
+vim main.go
+go run main.go 34
+go run main.go qwre
+go run main.go 34
+go run main.go 55
+go run main.go 56
+go run main.go 100
+go run main.go 57
+go run main.go 60
+go run main.go 59
+go run main.go 61
+go run main.go 62
+go run main.go 66
+go run main.go 65
+go run main.go 64
+go run main.go 69
+go run main.go 56
+go run main.go 55
+go run main.go 57
+go run main.go 54
+go run main.go 53
+go run main.go 52
+go run main.go 51
+go run main.go 50
+go run main.go 45
+go run main.go 40
+go run main.go 34
+go run main.go 35
+go run main.go 36
+go run main.go 37
+go run main.go 38
+go run main.go 39
+go run main.go 34
+go run main.go 32
+go run main.go 30
+go run main.go 20
+go run main.go 21
+go run main.go 19
+go run main.go 20
+go run main.go 5
+go run main.go 6
+go run main.go 7
+go run main.go 8
+go run main.go 9
+go run main.go 10
+go run main.go 11
+go run main.go 12
+go run main.go 13
+go run main.go 14
+go run main.go 15
+vim main.go
+go run main.go 15
+go run main.go 21
+ws
+;;
+ll
+cd cs
+ll
+cd Grokking
+vim
+exs
+ll
+ws
+ll
+cd exs
+ll
+cd SumList
+ll
+exs
+ws
+cd exs
+ll
+cd SumList
+ll
+vim main.exs
+exs
+ws
+cd exs
+;;
+ll
+qcd SUm
+ll
+qcd SumL
+ll
+exs
+vim main.exs
+exs
+vim
+ws
+vim
+config
+ll
+home
+confif
+config
+ll
+cd nvim
+vim
+brew search tree-sitter-cli
+vim
+ll
+code .
+vim
+ws
+ll
+which nvim
+home
+config
+ll
+cd nvim
+ll
+open .
+home
+git clone git@github.com:ChristianChiarulli/nvim.git ~/.config/nvim
+config
+ll
+home
+git clone git@github.com:ChristianChiarulli/nvim.git ~/.config/nvim
+git clone https://github.com/ChristianChiarulli/nvim.git
+ll
+rmdir nvim
+open .
+git clone https://github.com/ChristianChiarulli/nvim.git ~/.config/nvim
+config
+nvim
+brew search shfmt
+brew install shfmt
+ll
+brew search google_java_format
+brew install google-java-format
+brew install shellcheck
+ll
+cd nvim
+ll
+cd lua
+ll
+cd user
+ll
+home
+vim
+ll
+config
+open .
+home
+git clone https://github.com/LunarVim/nvim-basic-ide.git ~/.config/nvim
+vim
+ll
+config
+ll
+cd nvim
+ll
+cd lua
+ll
+cd user
+ll
+vim
+ll
+vim
+config
+cd nvim
+code .
+em
+vim
+brew install flake8
+vim
+config
+ll
+nvim
+code .
+vim
+config
+open .
+git clone https://github.com/LunarVim/nvim-basic-ide.git ~/.config/nvim
+ll
+vim
+cd nvim
+ll
+code .
+vim
+ll
+cd lua
+vim
+vim init.vim
+ll
+cd user
+ll
+cd ..
+ll
+vim init.lua
+code .
+vim
+new cs TestNVim
+em
+vim .
+vim
+ep
+em
+vim
+em
+vim
+ws
+vim .
+config
+em
+ep
+config
+vim
+brew uninstall nvim
+nvim
+config
+ll
+cd ..
+open .
+home
+curl -LO https://github.com/neovim/neovim/releases/download/nightly/nvim-macos.tar.gz
+tar xzf nvim-macos.tar.gz
+./nvim-osx64/bin/nvim
+ll
+tar xzf nvim-macos.tar.gz
+ll
+cd nvim-macos
+ll
+cd bin
+ll
+cd nvim
+ll
+nvim
+home
+nvim
+neovim
+nvim
+open .
+nvim
+git clone https://github.com/neovim/neovim.git
+ll
+cd neovim
+ll
+wich nvim
+make CMAKE_BUILD_TYPE=Release
+make
+which make
+ll
+home
+ll
+open .
+make CMAKE_BUILD_TYPE=Release
+make
+mak
+make
+make CMAKE_BUILD_TYPE
+make CMAKE_BUILD_TYPE='Release'
+make CMAKE_BUILD_TYPE="Release"
+home
+open .
+brew install neovim
+nvim
+config
+ll
+home
+nvim
+cd .config
+ll
+home
+git clone https://github.com/LunarVim/nvim-basic-ide.git ~/.config/nvim
+config
+vim
+tree
+brew search tree
+brew install tree
+tree
+ws
+ll
+cd cs
+ll
+qcd Gr
+tree
+home
+icloud
+ll
+cd Documents
+ll
+cd ..
+ll
+cd logseq
+open .
+config
+hom
+home
+config
+vim
+exs
+!:
+:q!
+:!
+:w
+\!:
+c
+vim .
+vim
+ll
+cd ..
+ll
+open .
+home
+git clone https://github.com/LunarVim/Neovim-from-scratch.git ~/.config/nvim
+vim
+config
+new cs Prac
+c
+run cs hello
+ws
+ll
+cd css
+l
+cd cs
+vim /
+vim .
+ll
+ws
+ll
+c
+ll
+cd carbon-lang
+ll
+qcd explor
+ll
+cd data
+ll
+cd ..
+ll
+cd testdata
+ll
+vim ben.carbon
+home
+vim
+config
+home
+config
+home
+c
+new cpp prac
+run cpp
+new go prac
+run go
+cd downloads
+ll
+open .
+new cs Arrays
+run cs
+dotnet --version
+ll
+:wq!
+ws
+cd cs
+ll
+new cs prac
+run cs
+ws
+cd cs
+ll
+mkdir Notebooks
+cd Notebooks
+code .
+ll
+vim FirstNotebook.dib
+run cs
+ll
+dotnet run FirstNotebook.dib
+vim SecondNotebook.dib
+code SecondNotebook.dib
+ll
+vim .
+ll
+home
+ll
+cd Pictures
+ll
+open .
+em
+new cs test
+ws
+cd
+cd cs
+ll
+ws
+ll
+cd cs
+ll
+cd prac
+code .
+run cs
+cd local
+cd .local
+cd share
+ll
+cd powershell
+git init
