@@ -4931,3 +4931,9 @@ cd share
 ll
 cd powershell
 git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+remote add origin https://github.com/BenjtuhminStewart/ps-modules.git
+git remote add origin https://github.com/BenjtuhminStewart/ps-modules.git
+git push -u origin main
